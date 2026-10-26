@@ -5,7 +5,7 @@
 ---
 
 ### Slide 1: Title & Theoretical Roadmap
-- **Designated Speaker:** Group Representative / Opener
+- **Presenter:** Group Representative / Opener
 - **Slide on Screen:** Title Slide · *Health, Society & HIV & AIDS Education*
 
 > **Spoken Script:**
@@ -16,12 +16,12 @@
 > - **Part 1** covers the **Theoretical Foundations** — clinical biology, health technology and the U=U consensus, Philippine legal protections under RA 11166, and the sociology of youth stigma.
 > - **Part 2** showcases our **Group Deliverable** — where we audited raw AI myth classifications against DOH and WHO standards, followed by our ready-to-post 3-slide social media campaign tailored specifically for UNC students and the wider Naga City community.
 >
-> Let us begin with Member 2 for the clinical biology of HIV and AIDS."
+> Let us begin with **Boletic** for the clinical biology of HIV and AIDS."
 
 ---
 
 ### Slide 2: HIV vs. AIDS & Stages of Infection
-- **Designated Speaker:** Member 2 (Slide 1 of 3)
+- **Presenter:** Boletic (Slide 2–4 · 1 of 3)
 - **Slide on Screen:** *HIV vs. AIDS & Stages of Infection*
 
 > **Spoken Script:**
@@ -42,7 +42,7 @@
 ---
 
 ### Slide 3: Effects on the Immune System, Prevention & Treatment
-- **Designated Speaker:** Member 2 (Slide 2 of 3)
+- **Presenter:** Boletic (Slide 2–4 · 2 of 3)
 - **Slide on Screen:** *Effects on the Immune System, Prevention & Treatment*
 
 > **Spoken Script:**
@@ -63,7 +63,7 @@
 ---
 
 ### Slide 4: HIV vs. AIDS: Clinical & Biological Distinction (Deep Dive)
-- **Designated Speaker:** Member 2 (Slide 3 of 3)
+- **Presenter:** Boletic (Slide 2–4 · 3 of 3)
 - **Slide on Screen:** *HIV vs. AIDS: Clinical & Biological Distinction (Deep Dive)*
 
 > **Spoken Script:**
@@ -76,17 +76,17 @@
 >
 > Most importantly: **AIDS is not transmissible**. Only the HIV virus can be passed from person to person. And today, with accessible Antiretroviral Therapy, individuals diagnosed early can live long, fulfilling lives without ever reaching the AIDS threshold.
 >
-> Next, Member 3 will explain how modern health technologies and the U=U breakthrough transformed HIV care."
+> Next, **De Lima** will explain how modern health technologies and the U=U breakthrough transformed HIV care."
 
 ---
 
 ### Slide 5: Modern Health Technology & The "U=U" Consensus
-- **Designated Speaker:** Member 3
+- **Presenter:** De Lima (Slide 5)
 - **Slide on Screen:** *Modern Health Technology & The "U=U" Consensus*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 2. Over the last four decades, science and technology transformed HIV from what was once considered a terminal diagnosis in the 1980s into a manageable chronic condition.
+> "Thank you, Boletic. Over the last four decades, science and technology transformed HIV from what was once considered a terminal diagnosis in the 1980s into a manageable chronic condition.
 >
 > Four major technological innovations drive this progress:
 > 1. **Rapid Diagnostic Tests (RDTs):** Simple finger-prick tests and oral swabs that yield accurate preliminary results in just 15 to 20 minutes right at point-of-care clinics.
@@ -94,17 +94,17 @@
 > 3. **Antiretroviral Therapy (ART):** Modern single-tablet regimens with minimal side effects that suppress viral replication. In the Philippines, ART is **100% free** under PhilHealth and DOH at designated treatment hubs like Bicol Medical Center.
 > 4. **The Landmark U=U Consensus:** *Undetectable = Untransmittable.* Endorsed by the WHO and DOH, robust global trials (such as PARTNER 1 and 2) proved that when daily ART suppresses viral load to undetectable levels (below 200 copies/mL) for at least 6 months, there is **zero risk of sexually transmitting HIV** to partners.
 >
-> Science proves that treatment is also prevention. Next, Member 4 will discuss youth legal rights under Republic Act No. 11166."
+> Science proves that treatment is also prevention. Next, **Bascuña** will discuss youth legal rights under Republic Act No. 11166."
 
 ---
 
 ### Slide 6: RA 11166: Philippine HIV and AIDS Policy Act (Testing & Youth Consent)
-- **Designated Speaker:** Member 4
+- **Presenter:** Bascuña (Slide 6)
 - **Slide on Screen:** *RA 11166: Testing & Consent*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 3. In 2018, the Philippine government enacted **Republic Act No. 11166**, repealing the old 1998 AIDS law (RA 8504) to align national policy with modern human rights and public health science.
+> "Thank you, De Lima. In 2018, the Philippine government enacted **Republic Act No. 11166**, repealing the old 1998 AIDS law (RA 8504) to align national policy with modern human rights and public health science.
 >
 > The most critical reform for students is **Section 29: The Age 15+ Rule**.
 > - Under RA 11166, any mature youth aged **15 to below 18 years old** can legally access voluntary HIV testing and pre- and post-test counseling **without parental or guardian consent**.
@@ -116,17 +116,17 @@
 > - **Minors below age 15** who are pregnant, married, engaged in high-risk behaviors, or assisted by a licensed social worker or healthcare provider can also access testing independently.
 > - **Section 26 strictly bans compulsory testing:** No school, university, employer, or medical facility can mandate an HIV test as a prerequisite for enrollment, scholarship retention, employment, or surgery.
 >
-> Next, Member 5 will discuss confidentiality and anti-discrimination provisions."
+> Next, **Bedico** will discuss confidentiality and anti-discrimination provisions."
 
 ---
 
 ### Slide 7: RA 11166: Privacy, Confidentiality & Anti-Discrimination
-- **Designated Speaker:** Member 5
+- **Presenter:** Bedico (Slide 7)
 - **Slide on Screen:** *RA 11166: Privacy & Anti-Discrimination*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 4. Fear of exposure is often the greatest hurdle for young people. RA 11166 guarantees strict safeguards:
+> "Thank you, Bascuña. Fear of exposure is often the greatest hurdle for young people. RA 11166 guarantees strict safeguards:
 >
 > 1. **Medical Confidentiality (Sections 30 & 31):** Every testing visit, record, and result is confidential by law. Clinics use unique coded identifiers rather than calling out real names in waiting rooms. Test results are handed **solely** to the individual tested — never transmitted to professors, department deans, or student councils.
 > 2. **School and Workplace Protections (Section 49):** It is explicitly illegal for educational institutions to deny admission, expel, segregate, or withhold academic honors and scholarships based on actual or perceived HIV status. Equal workplace rights and housing protections are similarly mandated.
@@ -134,17 +134,17 @@
 >
 > The takeaway for UNC students is unequivocal: **the law protects your identity before, during, and after you take a test.**
 >
-> Member 6 will now present the epidemiological data on youth cases and social stigma."
+> **Cecilio** will now present the epidemiological data on youth cases and social stigma."
 
 ---
 
 ### Slide 8: Rising Youth Cases & The Sociology of Stigma
-- **Designated Speaker:** Member 6
+- **Presenter:** Cecilio (Slide 8)
 - **Slide on Screen:** *Rising Youth Cases & The Sociology of Stigma*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 5. Looking at the data from the DOH Epidemiology Bureau's HIV/AIDS Registry of the Philippines (HARP):
+> "Thank you, Bedico. Looking at the data from the DOH Epidemiology Bureau's HIV/AIDS Registry of the Philippines (HARP):
 >
 > The epidemic in our country has undergone a major demographic shift. Filipinos aged **15 to 24 and 25 to 34** account for the overwhelming majority of all new HIV diagnoses nationwide, including here in Region V Bicol. 
 >
@@ -156,17 +156,17 @@
 > 3. **Misinformation:** Outdated myths from the 1980s circulating in dorms and group chats.
 > 4. **Internalized Shame:** Which causes young people to delay screening out of fear.
 >
-> To dismantle these barriers, public health communication must be empathetic and accessible. Member 7 will now introduce Part 2 — our live group deliverable."
+> To dismantle these barriers, public health communication must be empathetic and accessible. **Belarmino** will now introduce Part 2 — our live group deliverable."
 
 ---
 
 ### Slide 9: Part 2 · Live Group Output Presentation & Workflow
-- **Designated Speaker:** Member 7
+- **Presenter:** Belarmino (Slide 9–10 · 1 of 2)
 - **Slide on Screen:** *UNC Youth Health & Anti-Stigma Digital Campaign (Workflow)*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 6. This brings us to Part 2: the required Group B live project output — our **UNC Youth Health & Anti-Stigma Digital Campaign**.
+> "Thank you, Cecilio. This brings us to Part 2: the required Group B live project output — our **UNC Youth Health & Anti-Stigma Digital Campaign**.
 >
 > To fulfill the project requirements, our group followed a three-step workflow:
 > - **Step 1 — AI Myth Classification:** We prompted Google Gemini to classify 5 common online myths regarding HIV transmission and testing.
@@ -178,7 +178,7 @@
 ---
 
 ### Slide 10: AI Audit Matrix (Transmission Myths 1–3)
-- **Designated Speaker:** Member 7
+- **Presenter:** Belarmino (Slide 9–10 · 2 of 2)
 - **Slide on Screen:** *Auditing AI Transmission Myths & Removing Stigma Language (1 of 2)*
 
 > **Spoken Script:**
@@ -200,17 +200,17 @@
 >   - **Flagged & Removed:** Bleak, outdated language.
 >   - **Our Rewrite:** We highlighted **U=U**, explaining that PLHIV on effective daily ART maintain zero transmission risk.
 >
-> Member 8 will now present the legal and local testing audit for Myths 4 and 5."
+> **Dagta** will now present the legal and local testing audit for Myths 4 and 5."
 
 ---
 
 ### Slide 11: AI Audit Matrix (Testing Myths 4–5 & Local Realities)
-- **Designated Speaker:** Member 8
+- **Presenter:** Dagta (Slide 11)
 - **Slide on Screen:** *Auditing Testing Myths Against Philippine Law & Naga Reality (2 of 2)*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 7. When auditing testing myths, we discovered that generative AI tools default to Western legal frameworks unless explicitly corrected:
+> "Thank you, Belarmino. When auditing testing myths, we discovered that generative AI tools default to Western legal frameworks unless explicitly corrected:
 >
 > - **Myth 4 (Parental Consent for Minors):** *Clinics will call parents or demand signatures from 16- or 17-year-olds.*
 >   - **The AI wrote:** *'In most jurisdictions, minors under 18 require parental consent for blood tests.'*
@@ -222,17 +222,17 @@
 >   - **Flagged:** Too vague and fails to inform students of their local options.
 >   - **Our Localized Rewrite:** Testing and counseling are **100% FREE** at the **Naga City Hygiene Clinic** and **Bicol Medical Center**. Under Sections 30 and 49 of RA 11166, records are private and can never be shared with UNC or affect scholarships.
 >
-> Now, Member 9 will walk us through the localized social media carousel."
+> Now, **Dolor** will walk us through the localized social media carousel."
 
 ---
 
 ### Slide 12: Ready-to-Post 3-Slide Carousel Overview
-- **Designated Speaker:** Member 9
+- **Presenter:** Dolor (Slide 12–14 · 1 of 3)
 - **Slide on Screen:** *Ready-to-Post 3-Slide Carousel Overview for UNC Students*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 8. Here is our completed digital asset: a **3-slide mobile carousel** formatted in a 4:5 portrait aspect ratio (1080 by 1350 pixels), optimized for Instagram and Facebook feeds.
+> "Thank you, Dagta. Here is our completed digital asset: a **3-slide mobile carousel** formatted in a 4:5 portrait aspect ratio (1080 by 1350 pixels), optimized for Instagram and Facebook feeds.
 >
 > The carousel functions as a cohesive story:
 > - **Card 1** debunks everyday campus transmission myths with pure science and the U=U consensus.
@@ -246,7 +246,7 @@
 ---
 
 ### Slide 13: Carousel Zoom-In · Card 1 (Transmission Myths vs. Facts)
-- **Designated Speaker:** Member 9
+- **Presenter:** Dolor (Slide 12–14 · 2 of 3)
 - **Slide on Screen:** *Carousel Zoom-In · Card 1 of 3 (Transmission)*
 
 > **Spoken Script:**
@@ -263,7 +263,7 @@
 ---
 
 ### Slide 14: Carousel Zoom-In · Card 2 (RA 11166 Youth Rights)
-- **Designated Speaker:** Member 9
+- **Presenter:** Dolor (Slide 12–14 · 3 of 3)
 - **Slide on Screen:** *Carousel Zoom-In · Card 2 of 3 (RA 11166 Student Rights)*
 
 > **Spoken Script:**
@@ -275,17 +275,17 @@
 > - **Relieving Academic and Scholarship Anxiety:** Citing **Section 49**, we assure students that testing or diagnosis can never result in dismissal, loss of scholarships, or disciplinary action.
 > - **Privacy Assurance:** Citing **Sections 30 and 50**, we highlight that unauthorized disclosure of medical status carries severe jail terms and fines.
 >
-> Member 10 will now present Card 3 and demonstrate the local clinic map feature."
+> **Belches** will now present Card 3 and demonstrate the local clinic map feature."
 
 ---
 
 ### Slide 15: Carousel Zoom-In · Card 3 (Naga City & CamSur Testing Directory)
-- **Designated Speaker:** Member 10
+- **Presenter:** Belches (Slide 15)
 - **Slide on Screen:** *Carousel Zoom-In · Card 3 of 3 (Naga & CamSur Guide)*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 9. The final slide of our campaign is actionable: **Where to Get Free HIV Testing Near UNC**.
+> "Thank you, Dolor. The final slide of our campaign is actionable: **Where to Get Free HIV Testing Near UNC**.
 >
 > We tailored this directly for the Naga City student community:
 > 1. **Naga City Hygiene Clinic:** Located within the City Hall Compound on J. Miranda Avenue, open Monday to Friday from 8:00 AM to 5:00 PM. It is a single tricycle or jeepney ride from the UNC campus.
@@ -298,17 +298,17 @@
 >
 > As shown on screen, students can click any clinic to open an embedded Google Map with exact directions and an external link.
 >
-> Member 8 will now provide our wrap-up and AI transparency disclosure."
+> **Dagta** will now provide our wrap-up and AI transparency disclosure."
 
 ---
 
 ### Slide 16: Wrap-up · Primary References & AI Disclosure
-- **Designated Speaker:** Member 8
+- **Presenter:** Dagta (Slide 16)
 - **Slide on Screen:** *Primary Sources & AI Transparency Disclosure*
 
 > **Spoken Script:**
 >
-> "Thank you, Member 10. To conclude Group B's report, we present our primary source verifications and mandatory AI disclosure:
+> "Thank you, Belches. To conclude Group B's report, we present our primary source verifications and mandatory AI disclosure:
 >
 > **Primary Sources:**
 > - **Republic Act No. 11166:** The Philippine HIV and AIDS Policy Act of 2018, published in the Official Gazette.
@@ -325,21 +325,21 @@
 
 ### 📋 Summary Speaker Roster
 
-| Slide # | Slide Title | Speaker | Key Focus |
-|---|---|---|---|
+| Slide # | Slide Title | Presenter | Key Focus |
+|:---:|---|---|---|
 | **01** | Title & Theoretical Roadmap | Group B Opener | Welcome, report context, Part 1 & 2 overview |
-| **02** | HIV vs. AIDS & Stages of Infection | Member 2 | Virus vs. syndrome, 3 infection stages, ART key point |
-| **03** | Immune System, Prevention & Treatment | Member 2 | CD4 mechanism, CD4 count & viral load, prevention, RA 11166 |
-| **04** | Clinical & Biological Distinction (Deep Dive) | Member 2 | Bodily fluid routes, 200 CD4 threshold, AIDS not transmissible |
-| **05** | Health Technology & U=U | Member 3 | RDTs, PrEP/PEP, free ART at BMC, U=U zero transmission risk |
-| **06** | RA 11166: Testing & Consent | Member 4 | Age 15+ rule (Sec. 29), minors <15, ban on compulsory testing |
-| **07** | RA 11166: Privacy & Anti-Discrimination | Member 5 | Medical confidentiality (Sec. 30/31), school protections (Sec. 49), penal sanctions (Sec. 50) |
-| **08** | Youth Cases & Social Stigma | Member 6 | DOH HARP youth epidemiology, 4 pillars of stigma |
-| **09** | Part 2 Deliverable Introduction & Workflow | Member 7 | 3-step workflow: AI classification, audit matrix, 3-slide carousel |
-| **10** | AI Audit: Transmission Myths (1–3) | Member 7 | Scrubbing victim-blaming & fear language, WHO/DOH rewrites |
-| **11** | AI Audit: Testing Myths & Local Realities (4–5) | Member 8 | Correcting US-centric age rule to RA 11166, Naga clinic free testing |
-| **12** | Ready-to-Post 3-Slide Carousel Overview | Member 9 | 4:5 portrait mobile format, interactive preview simulator |
-| **13** | Carousel Zoom-In: Card 1 (Transmission) | Member 9 | Campus dorm anxiety, U=U message, non-judgmental language |
-| **14** | Carousel Zoom-In: Card 2 (RA 11166 Rights) | Member 9 | Translating Sec. 29 & 49 for freshmen & scholars |
-| **15** | Carousel Zoom-In: Card 3 (Naga Clinic Guide) | Member 10 | Naga Hygiene Clinic, BMC SAGIP, RHUs, interactive map demo |
-| **16** | Wrap-up, References & AI Disclosure | Member 8 | Official Gazette, DOH, WHO, Google Gemini disclosure & closing |
+| **02** | HIV vs. AIDS & Stages of Infection | **Boletic** (Slide 2–4 · 1/3) | Virus vs. syndrome, 3 infection stages, ART key point |
+| **03** | Immune System, Prevention & Treatment | **Boletic** (Slide 2–4 · 2/3) | CD4 mechanism, CD4 count & viral load, prevention, RA 11166 |
+| **04** | Clinical & Biological Distinction (Deep Dive) | **Boletic** (Slide 2–4 · 3/3) | Bodily fluid routes, 200 CD4 threshold, AIDS not transmissible |
+| **05** | Health Technology & U=U | **De Lima** (Slide 5) | RDTs, PrEP/PEP, free ART at BMC, U=U zero transmission risk |
+| **06** | RA 11166: Testing & Consent | **Bascuña** (Slide 6) | Age 15+ rule (Sec. 29), minors <15, ban on compulsory testing |
+| **07** | RA 11166: Privacy & Anti-Discrimination | **Bedico** (Slide 7) | Medical confidentiality (Sec. 30/31), school protections (Sec. 49), penal sanctions (Sec. 50) |
+| **08** | Youth Cases & Social Stigma | **Cecilio** (Slide 8) | DOH HARP youth epidemiology, 4 pillars of stigma |
+| **09** | Part 2 Deliverable Introduction & Workflow | **Belarmino** (Slide 9–10 · 1/2) | 3-step workflow: AI classification, audit matrix, 3-slide carousel |
+| **10** | AI Audit: Transmission Myths (1–3) | **Belarmino** (Slide 9–10 · 2/2) | Scrubbing victim-blaming & fear language, WHO/DOH rewrites |
+| **11** | AI Audit: Testing Myths & Local Realities (4–5) | **Dagta** (Slide 11) | Correcting US-centric age rule to RA 11166, Naga clinic free testing |
+| **12** | Ready-to-Post 3-Slide Carousel Overview | **Dolor** (Slide 12–14 · 1/3) | 4:5 portrait mobile format, interactive preview simulator |
+| **13** | Carousel Zoom-In: Card 1 (Transmission) | **Dolor** (Slide 12–14 · 2/3) | Campus dorm anxiety, U=U message, non-judgmental language |
+| **14** | Carousel Zoom-In: Card 2 (RA 11166 Rights) | **Dolor** (Slide 12–14 · 3/3) | Translating Sec. 29 & 49 for freshmen & scholars |
+| **15** | Carousel Zoom-In: Card 3 (Naga Clinic Guide) | **Belches** (Slide 15) | Naga Hygiene Clinic, BMC SAGIP, RHUs, interactive map demo |
+| **16** | Wrap-up, References & AI Disclosure | **Dagta** (Slide 16) | Official Gazette, DOH, WHO, Google Gemini disclosure & closing |

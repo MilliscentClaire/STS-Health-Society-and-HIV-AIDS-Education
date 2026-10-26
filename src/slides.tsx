@@ -83,14 +83,14 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 1A · HIV vs. AIDS & Stages of Infection', speaker: 'Member 2',
+    role: 'Part 1A · HIV vs. AIDS & Stages of Infection', speaker: 'Boletic',
     render: () => (
       <Shell
-        eyebrow="Part 1 · Theoretical Overview (Member 2)"
+        eyebrow="Part 1 · Theoretical Overview (Boletic)"
         title={<>HIV vs. AIDS &amp; <em>Stages of Infection</em></>}
-        speaker="Member 2"
+        speaker="Boletic"
         footL={<>Source: <a href="https://www.who.int/news-room/fact-sheets/detail/hiv-aids" target="_blank" rel="noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>WHO HIV/AIDS Fact Sheet</a></>}
-        footR="Member 2 · Slide 1 of 3"
+        footR="Boletic · Slide 1 of 3"
       >
         <div className="vs">
           <div className="vs-card hiv">
@@ -144,14 +144,14 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 1A · Immune System, Prevention & Treatment', speaker: 'Member 2',
+    role: 'Part 1A · Immune System, Prevention & Treatment', speaker: 'Boletic',
     render: () => (
       <Shell
-        eyebrow="Part 1 · Theoretical Overview (Member 2)"
+        eyebrow="Part 1 · Theoretical Overview (Boletic)"
         title={<>Effects on the <em>Immune System</em>, Prevention &amp; Treatment</>}
-        speaker="Member 2"
+        speaker="Boletic"
         footL={<>Sources: <a href="https://www.who.int/news-room/fact-sheets/detail/hiv-aids" target="_blank" rel="noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>WHO</a> &amp; <a href="https://lawphil.net/statutes/repacts/ra2018/ra_11166_2018.html" target="_blank" rel="noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>RA 11166</a></>}
-        footR="Member 2 · Slide 2 of 3"
+        footR="Boletic · Slide 2 of 3"
       >
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px' }}>
           <div className="tech-card red">
@@ -234,9 +234,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 1A · Biology & Clinical Distinction (Deep Dive)', speaker: 'Member 2',
+    role: 'Part 1A · Biology & Clinical Distinction (Deep Dive)', speaker: 'Boletic',
     render: () => (
-      <Shell eyebrow={P1} title={<>HIV vs. AIDS: <em>Clinical &amp; Biological Distinction</em></>} speaker="Member 2" footL="Source: WHO & DOH" footR="Member 2 · Slide 3 of 3">
+      <Shell eyebrow={P1} title={<>HIV vs. AIDS: <em>Clinical &amp; Biological Distinction</em></>} speaker="Boletic" footL="Source: WHO & DOH" footR="Boletic · Slide 3 of 3">
         <div className="vs">
           <div className="vs-card hiv">
             <div className="vs-top"><span className="tag gold">The virus</span><span className="big">HIV</span></div>
@@ -269,9 +269,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 1B · Health Technology & U=U', speaker: 'Member 3',
+    role: 'Part 1B · Health Technology & U=U', speaker: 'De Lima',
     render: () => (
-      <Shell eyebrow={P1} title={<>Modern health tech &amp; the <em>U=U</em> consensus</>} speaker="Member 3" footL="HIV went from a fatal 1980s crisis to a manageable condition." footR="WHO Policy Brief · DOH Guidelines">
+      <Shell eyebrow={P1} title={<>Modern health tech &amp; the <em>U=U</em> consensus</>} speaker="De Lima" footL="HIV went from a fatal 1980s crisis to a manageable condition." footR="WHO Policy Brief · DOH Guidelines">
         <div className="tech">
           {[
             ['01', 'Rapid Diagnostic Tests', 'Finger-prick & self-test kits with results in 15–20 minutes at local hygiene clinics.', 'Fast · point-of-care', 'red'],
@@ -293,9 +293,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 1C · RA 11166 Testing & Consent', speaker: 'Member 4',
+    role: 'Part 1C · RA 11166 Testing & Consent', speaker: 'Bascuña',
     render: () => (
-      <Shell eyebrow={P1} title={<>RA 11166: <em>Testing &amp; Consent</em></>} speaker="Member 4" footL="Republic Act No. 11166 · Official Gazette, 2018" footR="Human rights & public health approach">
+      <Shell eyebrow={P1} title={<>RA 11166: <em>Testing &amp; Consent</em></>} speaker="Bascuña" footL="Republic Act No. 11166 · Official Gazette, 2018" footR="Human rights & public health approach">
         <div className="split">
           <div className="hero-stat">
             <span className="eyebrow light gold">Section 29 · Key youth provision</span>
@@ -317,9 +317,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 1D · Privacy & Anti-Discrimination', speaker: 'Member 5',
+    role: 'Part 1D · Privacy & Anti-Discrimination', speaker: 'Bedico',
     render: () => (
-      <Shell eyebrow={P1} title={<>RA 11166: <em>Privacy &amp; Anti-Discrimination</em></>} speaker="Member 5" footL={<><b>Bottom line:</b> the law protects your identity before, during and after testing.</>} footR="Sec. 30, 31, 49 & 50">
+      <Shell eyebrow={P1} title={<>RA 11166: <em>Privacy &amp; Anti-Discrimination</em></>} speaker="Bedico" footL={<><b>Bottom line:</b> the law protects your identity before, during and after testing.</>} footR="Sec. 30, 31, 49 & 50">
         <div className="three">
           {[
             ['Sec. 30 & 31', 'Strict medical confidentiality', ['Visits, counseling notes & results are confidential.', 'Clinics use coded identifiers, not names.', 'Results go only to you — never to schools or peers.'], 'red', '🔒'],
@@ -338,9 +338,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 1E · Youth Cases & Social Stigma', speaker: 'Member 6',
+    role: 'Part 1E · Youth Cases & Social Stigma', speaker: 'Cecilio',
     render: () => (
-      <Shell eyebrow={P1} title={<>Rising youth cases &amp; <em>the sociology of stigma</em></>} speaker="Member 6" footL="Stigma — not the virus — is the #1 barrier to free care in Naga City." footR="DOH HARP · UNAIDS Philippines">
+      <Shell eyebrow={P1} title={<>Rising youth cases &amp; <em>the sociology of stigma</em></>} speaker="Cecilio" footL="Stigma — not the virus — is the #1 barrier to free care in Naga City." footR="DOH HARP · UNAIDS Philippines">
         <div className="split even">
           <div className="epi">
             <span className="tag red">Epidemiological context</span>
@@ -366,9 +366,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 2 · Intro & Workflow', speaker: 'Member 7', dark: true,
+    role: 'Part 2 · Intro & Workflow', speaker: 'Belarmino', dark: true,
     render: () => (
-      <Shell dark eyebrow="Part 2 · Live Group Output" title={<>UNC Youth Health &amp; <em>Anti-Stigma</em> Digital Campaign</>} speaker="Member 7" footL={<>Prompt: <q>Classify 5 common online myths about HIV transmission and HIV testing.</q></>} footR="Next: the audit matrix →">
+      <Shell dark eyebrow="Part 2 · Live Group Output" title={<>UNC Youth Health &amp; <em>Anti-Stigma</em> Digital Campaign</>} speaker="Belarmino" footL={<>Prompt: <q>Classify 5 common online myths about HIV transmission and HIV testing.</q></>} footR="Next: the audit matrix →">
         <p className="lede center">Bridging AI fact-checking, RA 11166 legal literacy, and localized Naga City healthcare access.</p>
         <div className="flow">
           {[
@@ -385,9 +385,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 2A · AI Audit (Myths 1–3)', speaker: 'Member 7',
+    role: 'Part 2A · AI Audit (Myths 1–3)', speaker: 'Belarmino',
     render: () => (
-      <Shell eyebrow="Part 2 · AI vs. DOH/WHO Audit (1 of 2)" title={<>Auditing AI myths &amp; <em>removing stigma language</em></>} speaker="Member 7" footL="Generic AI repeats moralistic biases from older training data." footR="Cross-checked: WHO & DOH">
+      <Shell eyebrow="Part 2 · AI vs. DOH/WHO Audit (1 of 2)" title={<>Auditing AI myths &amp; <em>removing stigma language</em></>} speaker="Belarmino" footL="Generic AI repeats moralistic biases from older training data." footR="Cross-checked: WHO & DOH">
         <AuditTable rows={[
           ['Casual contact', 'You can catch HIV from dorm CRs, utensils, sweat or mosquito bites.', 'False. HIV is only spread by high-risk groups engaging in reckless sexual acts or dirty needles.', '"high-risk groups", "reckless" — victim-blaming', <>Never transmitted via casual contact, food, toilets or mosquitoes. It depends on <b>specific unprotected exposures</b> — not labels or groups.</>],
           ['Symptoms', 'If someone looks fit, they are definitely HIV-negative.', 'False. Infected carriers can silently harbor the deadly plague for years.', '"infected carriers", "deadly plague" — fear-mongering', <>PLHIV often have no symptoms for years. Using person-first language, <b>routine testing</b> is a normal health habit for everyone.</>],
@@ -397,9 +397,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 2B · AI Audit (Myths 4–5)', speaker: 'Member 8',
+    role: 'Part 2B · AI Audit (Myths 4–5)', speaker: 'Dagta',
     render: () => (
-      <Shell eyebrow="Part 2 · AI vs. RA 11166 & Local Audit (2 of 2)" title={<>Auditing testing myths against <em>PH law &amp; Naga reality</em></>} speaker="Member 8" footL={<><b>Key lesson:</b> AI defaults to Western laws unless localized with RA 11166 &amp; Naga CHO data.</>} footR="Verified via Official Gazette">
+      <Shell eyebrow="Part 2 · AI vs. RA 11166 & Local Audit (2 of 2)" title={<>Auditing testing myths against <em>PH law &amp; Naga reality</em></>} speaker="Dagta" footL={<><b>Key lesson:</b> AI defaults to Western laws unless localized with RA 11166 &amp; Naga CHO data.</>} footR="Verified via Official Gazette">
         <AuditTable start={4} rows={[
           ['Parental consent', 'At 16 or 17, the clinic will call your parents or need their signature.', 'In most jurisdictions, minors under 18 require parental or guardian consent before medical blood tests.', 'US-centric — legally wrong in the Philippines', <><b>RA 11166 Sec. 29:</b> youth aged <b>15–17</b> can access voluntary testing <b>without parental consent</b>.</>],
           ['Cost & school records', 'Testing costs thousands and gets reported to your university.', 'Public health centers often provide subsidized testing and follow standard privacy rules.', 'Too vague — misses RA 11166 & Naga clinics', <>Testing is <b>100% FREE</b> at the <b>Naga City Hygiene Clinic</b> &amp; <b>BMC</b>. Results are confidential and never shared with UNC (Sec. 30 &amp; 49).</>],
@@ -408,9 +408,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 2C · Full Carousel Overview', speaker: 'Member 9',
+    role: 'Part 2C · Full Carousel Overview', speaker: 'Dolor',
     render: () => (
-      <Shell eyebrow="Part 2 · Localized Digital Asset" title={<>Ready-to-post <em>3-slide carousel</em> for UNC students</>} speaker="Member 9" footL="4:5 portrait · 1080×1350 px · optimized for mobile feeds" footR="Try it: swipe, double-tap, save →">
+      <Shell eyebrow="Part 2 · Localized Digital Asset" title={<>Ready-to-post <em>3-slide carousel</em> for UNC students</>} speaker="Dolor" footL="4:5 portrait · 1080×1350 px · optimized for mobile feeds" footR="Try it: swipe, double-tap, save →">
         <div className="overview">
           <div className="strip">
             {[0, 1, 2].map((k) => (
@@ -426,9 +426,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 2C · Card 1 (Transmission)', speaker: 'Member 9',
+    role: 'Part 2C · Card 1 (Transmission)', speaker: 'Dolor',
     render: () => (
-      <Shell eyebrow="Carousel Zoom-in · Card 1 of 3" title={<>A respectful <em>myth-vs-fact</em> breakdown</>} speaker="Member 9" footL={<>Rubric: "A respectful myth-vs-fact breakdown on HIV transmission." ✔</>} footR="Card 1 / 3">
+      <Shell eyebrow="Carousel Zoom-in · Card 1 of 3" title={<>A respectful <em>myth-vs-fact</em> breakdown</>} speaker="Dolor" footL={<>Rubric: "A respectful myth-vs-fact breakdown on HIV transmission." ✔</>} footR="Card 1 / 3">
         <div className="zoom">
           <PostToggle index={0} />
           <Rationale title="Why we designed Card 1 this way" items={[
@@ -441,9 +441,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 2C · Card 2 (RA 11166 Rights)', speaker: 'Member 9',
+    role: 'Part 2C · Card 2 (RA 11166 Rights)', speaker: 'Dolor',
     render: () => (
-      <Shell eyebrow="Carousel Zoom-in · Card 2 of 3" title={<>Testing myths &amp; <em>student rights</em> under RA 11166</>} speaker="Member 9" footL="Rubric: cross-checked against RA 11166 on privacy, testing & consent ✔" footR="Card 2 / 3">
+      <Shell eyebrow="Carousel Zoom-in · Card 2 of 3" title={<>Testing myths &amp; <em>student rights</em> under RA 11166</>} speaker="Dolor" footL="Rubric: cross-checked against RA 11166 on privacy, testing & consent ✔" footR="Card 2 / 3">
         <div className="zoom">
           <PostToggle index={1} />
           <Rationale title="Translating law into student assurance" items={[
@@ -456,9 +456,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Part 2D · Card 3 (Naga & CamSur Guide)', speaker: 'Member 10',
+    role: 'Part 2D · Card 3 (Naga & CamSur Guide)', speaker: 'Belches',
     render: () => (
-      <Shell eyebrow="Carousel Zoom-in · Card 3 of 3" title={<>A non-stigmatizing guide to <em>free testing</em></>} speaker="Member 10" footL="Rubric: clear guide to free, confidential testing in Naga / CamSur ✔" footR="Card 3 / 3">
+      <Shell eyebrow="Carousel Zoom-in · Card 3 of 3" title={<>A non-stigmatizing guide to <em>free testing</em></>} speaker="Belches" footL="Rubric: clear guide to free, confidential testing in Naga / CamSur ✔" footR="Card 3 / 3">
         <div className="zoom">
           <PostToggle index={2} />
           <Rationale title="Demystifying the clinic visit" items={[
@@ -471,9 +471,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Wrap-up · References & AI Disclosure', speaker: 'Member 8',
+    role: 'Wrap-up · References & AI Disclosure', speaker: 'Dagta',
     render: () => (
-      <Shell eyebrow="Wrap-up & Verification" title={<>Primary sources &amp; <em>AI transparency</em></>} speaker="Member 8" footL="STS Week 15 · Group B" footR="AI transparency rule satisfied ✔">
+      <Shell eyebrow="Wrap-up & Verification" title={<>Primary sources &amp; <em>AI transparency</em></>} speaker="Dagta" footL="STS Week 15 · Group B" footR="AI transparency rule satisfied ✔">
         <div className="split even">
           <div className="refs">
             <span className="tag">Primary source verification</span>
