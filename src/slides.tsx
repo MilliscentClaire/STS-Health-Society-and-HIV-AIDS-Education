@@ -11,7 +11,7 @@ export interface SlideDef {
   render: () => ReactNode;
 }
 
-function Shell(p: { eyebrow: string; title: ReactNode; speaker: string; footL: ReactNode; footR: ReactNode; children: ReactNode; dark?: boolean }) {
+function Shell(p: { eyebrow: string; title: ReactNode; speaker?: string; footL: ReactNode; footR: ReactNode; children: ReactNode; dark?: boolean }) {
   return (
     <div className={`slide ${p.dark ? 'dark' : ''}`}>
       <header className="s-head">
@@ -19,7 +19,7 @@ function Shell(p: { eyebrow: string; title: ReactNode; speaker: string; footL: R
           <span className="eyebrow">{p.eyebrow}</span>
           <h2 className="s-title">{p.title}</h2>
         </div>
-        <span className="speaker"><i />{p.speaker}</span>
+        {p.speaker && <span className="speaker"><i />{p.speaker}</span>}
       </header>
       <div className="s-body">{p.children}</div>
       <footer className="s-foot"><span>{p.footL}</span><span>{p.footR}</span></footer>
@@ -83,12 +83,11 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Theoretical Overview · HIV vs. AIDS & Stages', speaker: 'Member 1',
+    role: 'HIV vs. AIDS and Stages of Infection', speaker: '',
     render: () => (
       <Shell
-        eyebrow="Part 1 · Theoretical Overview (Member 1)"
+        eyebrow="Part 1 · Theoretical Overview"
         title={<>HIV vs. AIDS &amp; <em>Stages of Infection</em></>}
-        speaker="Member 1"
         footL={<>Source: <a href="https://www.who.int/news-room/fact-sheets/detail/hiv-aids" target="_blank" rel="noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>WHO HIV/AIDS Fact Sheet</a></>}
         footR="Theoretical Foundations · Slide 1 of 2"
       >
@@ -144,12 +143,11 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Theoretical Overview · Immune System, Prevention & RA 11166', speaker: 'Member 1',
+    role: 'Effects on Immune System, Prevention & Treatment', speaker: '',
     render: () => (
       <Shell
-        eyebrow="Part 1 · Theoretical Overview (Member 1)"
+        eyebrow="Part 1 · Theoretical Overview"
         title={<>Effects on the <em>Immune System</em>, Prevention &amp; Treatment</>}
-        speaker="Member 1"
         footL={<>Sources: <a href="https://www.who.int/news-room/fact-sheets/detail/hiv-aids" target="_blank" rel="noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>WHO</a> &amp; <a href="https://lawphil.net/statutes/repacts/ra2018/ra_11166_2018.html" target="_blank" rel="noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>RA 11166</a></>}
         footR="Theoretical Foundations · Slide 2 of 2"
       >
@@ -229,39 +227,6 @@ export const SLIDES: SlideDef[] = [
             </span>
           </div>
           <span style={{ fontSize: '11px', color: '#ffd27a', whiteSpace: 'nowrap' }}>Official Gazette 2018</span>
-        </div>
-      </Shell>
-    ),
-  },
-  {
-    role: 'Part 1A · Biology & Clinical Distinction', speaker: 'Member 2',
-    render: () => (
-      <Shell eyebrow={P1} title={<>HIV vs. AIDS: <em>not the same thing</em></>} speaker="Member 2" footL="Source: WHO & DOH" footR="1A">
-        <div className="vs">
-          <div className="vs-card hiv">
-            <div className="vs-top"><span className="tag gold">The virus</span><span className="big">HIV</span></div>
-            <h3>Human Immunodeficiency Virus</h3>
-            <ul>
-              <li><b>What:</b> a retrovirus that depletes <b>CD4 T-cells</b>, the immune system's command center.</li>
-              <li><b>Spread only by:</b> blood, semen, pre-seminal, vaginal/rectal fluids, breast milk.</li>
-              <li><b>Reality:</b> many PLHIV look and feel healthy for years.</li>
-            </ul>
-          </div>
-          <div className="vs-mid">VS</div>
-          <div className="vs-card aids">
-            <div className="vs-top"><span className="tag red">Late-stage syndrome</span><span className="big">AIDS</span></div>
-            <h3>Acquired Immunodeficiency Syndrome</h3>
-            <ul>
-              <li><b>What:</b> Stage 3 of <em>untreated</em> HIV infection.</li>
-              <li><b>Threshold:</b> CD4 below <b>200 cells/mm³</b> or opportunistic infections (e.g. severe TB).</li>
-              <li><b>Preventable:</b> with free ART, most PLHIV never progress to AIDS. You can't "catch AIDS".</li>
-            </ul>
-          </div>
-        </div>
-        <div className="timeline">
-          <div><i>1</i><b>Acute HIV</b><span>2–4 weeks</span></div>
-          <div><i>2</i><b>Chronic / Asymptomatic</b><span>Years</span></div>
-          <div className="end"><i>3</i><b>AIDS</b><span>Preventable via ART</span></div>
         </div>
       </Shell>
     ),

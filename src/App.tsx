@@ -65,7 +65,7 @@ export default function App() {
       <nav className="bar" aria-label="Slide controls">
         <div className="bar-l">
           <span className="badge">STS W15 · GROUP B</span>
-          <span className="role"><b>{s.speaker}</b> · {s.role}</span>
+          <span className="role">{s.speaker ? <><b>{s.speaker}</b> · {s.role}</> : <b>{s.role}</b>}</span>
         </div>
         <div className="bar-c">
           {SLIDES.map((_, k) => (
