@@ -1,5 +1,13 @@
 import type { ReactElement } from 'react';
 
+export interface Clinic { name: string; desc: string; query: string; address: string }
+
+export const CLINICS: Clinic[] = [
+  { name: 'Naga City Hygiene Clinic', desc: 'City Health Office, City Hall Compound · Mon–Fri 8AM–5PM', query: 'Naga City Health Office, City Hall Complex, J. Miranda Ave, Naga City, Camarines Sur', address: 'City Hall Complex, J. Miranda Ave., Concepcion Pequeña, Naga City' },
+  { name: 'BMC SAGIP Clinic', desc: 'DOH Treatment Hub · Testing, PrEP/PEP & free ART', query: 'Bicol Medical Center, Naga City, Camarines Sur', address: 'Bicol Medical Center, Concepcion Pequeña, Naga City' },
+  { name: 'CamSur Rural Health Units', desc: 'Ask your municipal RHU for free screening & referral', query: 'Rural Health Unit, Camarines Sur', address: 'Municipal Rural Health Units across Camarines Sur' },
+];
+
 const Brand = ({ n, light }: { n: number; light?: boolean }) => (
   <div className={`cc-top ${light ? 'is-light' : ''}`}>
     <span className="cc-brand">
@@ -83,18 +91,17 @@ export function CardThree() {
         <h3 className="cc-title dark">
           Where to get tested <em>near UNC</em>
         </h3>
-        <div className="cc-clinic hl">
-          <b>📍 Naga City Hygiene Clinic</b>
-          <span>City Health Office, City Hall Compound · Mon–Fri 8AM–5PM</span>
-        </div>
-        <div className="cc-clinic">
-          <b>📍 BMC SAGIP Clinic</b>
-          <span>DOH Treatment Hub · Testing, PrEP/PEP &amp; free ART</span>
-        </div>
-        <div className="cc-clinic">
-          <b>📍 CamSur Rural Health Units</b>
-          <span>Ask your municipal RHU for free screening &amp; referral</span>
-        </div>
+        {CLINICS.map((c, k) => (
+          <button
+            key={c.name}
+            className={`cc-clinic ${k === 0 ? 'hl' : ''}`}
+            onPointerDown={(e) => e.stopPropagation()}
+            onClick={(e) => { e.stopPropagation(); window.dispatchEvent(new CustomEvent('open-map', { detail: c })); }}
+          >
+            <b>📍 {c.name} <i className="map-hint">Map ↗</i></b>
+            <span>{c.desc}</span>
+          </button>
+        ))}
         <div className="cc-steps">
           <div><i>1</i>Private chat</div>
           <div><i>2</i>Finger-prick</div>

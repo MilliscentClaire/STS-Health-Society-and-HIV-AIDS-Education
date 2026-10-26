@@ -49,6 +49,19 @@ export default function App() {
     else document.documentElement.requestFullscreen?.();
   };
 
+  const [activeMap, setActiveMap] = useState<{ name: string; desc: string; query: string; address: string } | null>(null);
+
+  useEffect(() => {
+    const onOpenMap = (e: Event) => {
+      const customEvent = e as CustomEvent<{ name: string; desc: string; query: string; address: string }>;
+      if (customEvent.detail) {
+        setActiveMap(customEvent.detail);
+      }
+    };
+    window.addEventListener('open-map', onOpenMap);
+    return () => window.removeEventListener('open-map', onOpenMap);
+  }, []);
+
   const s = SLIDES[cur];
 
   return (
@@ -61,6 +74,48 @@ export default function App() {
           </div>
         </div>
       </div>
+
+      {activeMap && (
+        <div className="map-modal-overlay" onClick={() => setActiveMap(null)}>
+          <div className="map-modal" onClick={(e) => e.stopPropagation()}>
+            <header className="map-modal-header">
+              <div>
+                <span className="map-badge">📍 Verified Healthcare Location</span>
+                <h3>{activeMap.name}</h3>
+                <p>{activeMap.address}</p>
+              </div>
+              <div className="map-modal-actions">
+                <a
+                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(activeMap.query)}`}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="map-ext-btn"
+                >
+                  Open in Google Maps ↗
+                </a>
+                <button className="map-close-btn" onClick={() => setActiveMap(null)} aria-label="Close Map">
+                  ✕
+                </button>
+              </div>
+            </header>
+            <div className="map-iframe-container">
+              <iframe
+                title={activeMap.name}
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                loading="lazy"
+                src={`https://maps.google.com/maps?q=${encodeURIComponent(activeMap.query)}&t=&z=15&ie=UTF8&iwloc=&output=embed`}
+                allowFullScreen
+              />
+            </div>
+            <footer className="map-modal-footer">
+              <span>{activeMap.desc}</span>
+              <span className="map-tag">100% Free &amp; Confidential Testing Hub</span>
+            </footer>
+          </div>
+        </div>
+      )}
 
       <nav className="bar" aria-label="Slide controls">
         <div className="bar-l">

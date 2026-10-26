@@ -59,7 +59,7 @@ const P1 = 'Part 1 · Theoretical Overview';
 
 export const SLIDES: SlideDef[] = [
   {
-    role: 'Creative Director & Intro', speaker: 'Member 1', dark: true,
+    role: 'Title & Theoretical Roadmap', speaker: 'Group B', dark: true,
     render: () => (
       <div className="slide dark title-slide">
         <div className="ribbon-art" aria-hidden>
@@ -471,9 +471,9 @@ export const SLIDES: SlideDef[] = [
     ),
   },
   {
-    role: 'Wrap-up · References & AI Disclosure', speaker: 'Member 8 / Member 1',
+    role: 'Wrap-up · References & AI Disclosure', speaker: 'Member 8',
     render: () => (
-      <Shell eyebrow="Wrap-up & Verification" title={<>Primary sources &amp; <em>AI transparency</em></>} speaker="Member 8 / Member 1" footL="STS Week 15 · Group B" footR="AI transparency rule satisfied ✔">
+      <Shell eyebrow="Wrap-up & Verification" title={<>Primary sources &amp; <em>AI transparency</em></>} speaker="Member 8" footL="STS Week 15 · Group B" footR="AI transparency rule satisfied ✔">
         <div className="split even">
           <div className="refs">
             <span className="tag">Primary source verification</span>
@@ -487,7 +487,7 @@ export const SLIDES: SlideDef[] = [
           <div className="disclosure">
             <span className="uu-badge">Mandatory rubric requirement</span>
             <h3>AI Transparency &amp; Disclosure</h3>
-            <p>Generative AI tools (<b>Google Gemini</b> and <b>Canva AI</b>) were used during ideation to generate and classify five common online myths about HIV transmission and testing, and to structure the slide layout.</p>
+            <p>Generative AI (specifically <b>Google Gemini</b>) was utilized during the ideation phase to generate and classify five common online myths regarding HIV transmission and testing.</p>
             <p>All RA 11166 provisions, epidemiological claims, and Naga/CamSur clinic details were manually cross-checked with the Official Gazette, DOH, and WHO. Stigmatizing, fear-inducing, or legally inaccurate AI phrasing was audited and removed by Group B.</p>
             <div className="thanks">Thank you! Group B is now open for questions. 🎗️</div>
           </div>
